@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-jpa" />
         <module name="workspace" />
+        <module name="workspace_jk" />
       </profile>
     </annotationProcessing>
   </component>
